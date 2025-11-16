@@ -1,0 +1,10 @@
+Hello there! 👋  
+This is a test message from the network chat app.  
+If you can see this, your message sending and receiving system is working correctly! 🚀  
+
+Let’s test:  
+- Text formatting ✅  
+- Line breaks ✅  
+- Multiple lines ✅  
+
+End of message.
