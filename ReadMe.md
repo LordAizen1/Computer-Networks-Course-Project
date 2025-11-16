@@ -403,19 +403,6 @@ std::string saved_path = "Users/Bob/from_Alice_1731686500" + extension;
 
 ---
 
-## 🔄 Future Enhancements (Optional)
-
-1. **Database Integration**: Persistent message history
-2. **Web Interface**: HTML5 WebSocket client
-3. **Group Channels**: Multiple chat rooms
-4. **User Authentication**: Password-based login
-5. **TLS/SSL**: Production-grade encryption
-6. **File Resume**: Resume interrupted transfers
-7. **Compression**: Reduce bandwidth usage
-8. **IPv6 Support**: Modern protocol support
-
----
-
 ## 🐛 Known Limitations
 
 1. **Encryption**: XOR cipher for demonstration only (use TLS in production)
