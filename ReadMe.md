@@ -365,34 +365,6 @@ std::string saved_path = "Users/Bob/from_Alice_1731686500" + extension;
 
 ---
 
-## 🎓 Learning Outcomes Demonstrated
-
-### Network Programming
-- ✅ TCP socket creation and management
-- ✅ Client-server architecture
-- ✅ Network byte order (htons/ntohs)
-- ✅ Blocking vs non-blocking I/O
-
-### Concurrent Programming
-- ✅ Multi-threading with std::thread
-- ✅ Thread synchronization with mutexes
-- ✅ Race condition prevention
-- ✅ Deadlock avoidance
-
-### Security
-- ✅ Input validation
-- ✅ Encryption/decryption
-- ✅ Secure coding practices
-- ✅ Buffer overflow prevention
-
-### Software Engineering
-- ✅ Clean code architecture
-- ✅ Comprehensive documentation
-- ✅ Error handling
-- ✅ Modular design
-
----
-
 ## 🐛 Known Limitations
 
 1. **Encryption**: XOR cipher for demonstration only (use TLS in production)
@@ -448,8 +420,8 @@ std::string saved_path = "Users/Bob/from_Alice_1731686500" + extension;
 
 ## Team Members
 
-- Md Kaif
-- Athiyo
-- Anant Garg
-- Ayush Singh
+- Md Kaif 2022289
+- Athiyo Chakma 2022118
+- Anant Garg 2022065
+- Ayush Singh 2022608
 
