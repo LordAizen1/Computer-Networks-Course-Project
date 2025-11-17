@@ -394,30 +394,6 @@ std::string saved_path = "Users/Bob/from_Alice_1731686500" + extension;
 
 ---
 
-## 🏆 Highlights for Evaluation
-
-### Why This Project Deserves Bonus Marks:
-
-1. **✅ Exceeds Requirements**: 1200+ lines vs 500+ required
-2. **✅ Advanced Features**: Multi-threading, encryption, file streaming
-3. **✅ Fixed Critical Bug**: File transfer now works correctly across network
-4. **✅ Professional Quality**: Extensive comments, error handling, logging
-5. **✅ Security Awareness**: Encryption module demonstrates advanced understanding
-6. **✅ Well-Documented**: Every function has detailed explanation
-7. **✅ Production-Ready**: Robust error handling, thread-safe operations
-8. **✅ Demonstrates Mastery**: Not just basic sockets, but advanced networking concepts
-
-### Specific Bonus Criteria Met:
-
-- **Challenging Problem**: ✓ Multi-threaded concurrent server
-- **Complex Implementation**: ✓ Thread synchronization, file streaming
-- **Advanced Features**: ✓ Encryption, proper file transfer protocol
-- **Security**: ✓ Input validation, encryption
-- **Code Quality**: ✓ Professional standards with 40% comments
-- **Exceeds Expectations**: ✓ Goes well beyond basic requirements
-
----
-
 ## Team Members
 
 - Md Kaif 2022289
