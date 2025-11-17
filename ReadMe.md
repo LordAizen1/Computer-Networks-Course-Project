@@ -21,9 +21,7 @@ This is an enhanced version of a network chat application that demonstrates adva
 
 ---
 
-## 📊 Why This Deserves Full Marks + Bonus
-
-### Core Requirements (18/20 marks)
+### Core Requirements 
 - ✅ **Network Application**: TCP client-server with sockets
 - ✅ **500+ Lines**: 1200+ lines of well-structured C++ code
 - ✅ **Meaningful**: Real-world chat application with practical use
@@ -32,20 +30,20 @@ This is an enhanced version of a network chat application that demonstrates adva
 - ✅ **Documentation**: Comprehensive README with architecture explanation
 - ✅ **Demo Ready**: All features work across network
 
-### Bonus Points (5/5 marks expected)
+### Bonus Points 
 
-#### 1. **Challenging Problem Statement** (2 marks)
+#### 1. **Challenging Problem Statement** 
 - Multi-threaded concurrent server handling multiple clients
 - Thread-safe operations with mutex protection
 - Complex message routing (public, private, file transfers)
 - Real-time bidirectional communication
 
-#### 2. **Technical Excellence** (2 marks)
+#### 2. **Technical Excellence** 
 - **Fixed Critical Bug**: Original file transfer assumed server had filesystem access to sender's files. New version implements proper client→server→client streaming
 - **Advanced Threading**: Detached threads, proper mutex usage, no race conditions
 - **Network Programming**: Proper use of sockets, send/recv, non-blocking I/O concepts
 
-#### 3. **Security Feature** (1 mark)
+#### 3. **Security Feature** 
 - **Message Encryption**: Implements XOR cipher for message confidentiality
 - Shows security awareness beyond basic networking
 - Demonstrates understanding of encryption concepts
@@ -284,6 +282,10 @@ Alice: /quit
 Here's a screenshot of the network chat application in action:
 
 ![Network Chat Application Demo](demo.png)
+
+### 🎥 Video Demo
+
+Watch the full demonstration video: [**Network Chat Application Demo Video**](https://drive.google.com/file/d/1rioAjxq9GVdH6E82TUyPJM33GWSxZkAq/view?usp=sharing)
 
 ---
 
