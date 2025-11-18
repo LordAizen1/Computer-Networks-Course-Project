@@ -1,4 +1,4 @@
-# Network Chat Application - Enhanced Version
+# Network Chat Application
 
 **A production-ready, multi-threaded TCP chat server with advanced features**
 
